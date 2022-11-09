@@ -7,7 +7,6 @@ classDiagram
         +withdrawl(금액)$ int
     }
 ```
-<br><br><<<<<<<>>>>>>>
 
 ```{mermaid}
 classDiagram
@@ -26,7 +25,6 @@ classDiagram
   학생 "1" --o "1" 학생증 : 가지고다닌다
   학생 "1" --o "1" 자전거 : 탄다
 ```
-<hr><hr>
 
 ```{mermaid}
 classDiagram
